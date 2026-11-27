@@ -6,7 +6,7 @@ A binary classifier for predicting whether a person earns more than $50,000 annu
 
 ```text
 census_income_workshop/
-├── income.csv                         # Add the dataset here; do not commit private/sensitive data
+├── income.csv                        
 ├── notebooks/
 │   └── census_income_workshop.ipynb
 ├── requirements.txt
